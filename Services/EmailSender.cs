@@ -17,6 +17,7 @@ namespace WebPWrecover.Services
         }
         /// <summary>
         /// Simply for testing purpose
+        /// Git Demo From vs2019
         /// </summary>
         public AuthMessageSenderOptions Options { get; } //set only via Secret Manager
 
